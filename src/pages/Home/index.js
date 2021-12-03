@@ -10,13 +10,14 @@ const PLACES = [
     'Mercados',
     'Museus',
     'Parques',
+    'Teatro',
     'Todos'
 ]
 
 const Home = () => {
     const { city, state } = useParams()
     const { setCity, setState } = useContext(LocationContext)
-    const { filteredPlace, setFilteredPlace} = useContext(FilterContext)
+    const { filteredPlace, setFilteredPlace } = useContext(FilterContext)
 
     const handleFilterPlace = (item) => {
         if(item !== filteredPlace){
