@@ -43,5 +43,4 @@ Você deve rodar o comando dentro do diretório src/api:
 
 Para entregar o projeto em produção você deve utilizar o diretório `build` folder.\
 
-#### Para visualizar o projeo acesse clique aqui -> [URL de acesso](https://acessa-br-62z8197ul-matheuscmorais356.vercel.app/SP/S%C3%A3o%20Paulo)
 
